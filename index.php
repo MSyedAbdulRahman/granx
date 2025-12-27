@@ -40,7 +40,7 @@
 
 		<!-- Start About us
 		============================================= -->
-		<div class="about-area de-padding mb-GRANX">
+		<div class="about-area de-padding mb-granx">
 			<div class="container">
 				<div class="about-wpr grid-2">
 					<div class="about-left">
@@ -101,12 +101,7 @@
 				font-size: 25px;
 				background: -webkit-linear-gradient(138deg, rgb(1, 188, 37), rgb(70, 115, 162)) text;
 				-webkit-text-fill-color: transparent;">Vision</h3>
-				<p style="text-align: justify;">We want to make a better world were the waste will become the new raw
-					materials and give a new life
-					for every object we decided to dispense.
-					Plastic doesn’t break down easily, if ever. Recycling plastic means that it is still plastic, just
-					being used for a different purpose. Therefore, we’re not actually reducing plastic amounts or
-					exposure through recycling but we keep that from increasing, spreading and polluting.</p>
+				<p style="text-align: justify;">To be the industry benchmark in redefined-performance compounding, value-added recycling, and reliable tolling</p>
 			</div>
 
 			<div class="gmc-box gmc-visible" bis_skin_checked="1">
@@ -117,10 +112,7 @@
 				font-size: 25px;
 				background: -webkit-linear-gradient(138deg, rgb(1, 188, 37), rgb(70, 115, 162)) text;
 				-webkit-text-fill-color: transparent;">Mission</h3>
-				<p style="text-align: justify;">Our aim is to not only transpire as a leading manufacturer and supplier
-					of prime quality plastic
-					compounding and recycled granules but also create a proper brand image among its target audience and
-					the market with effective service continuum.</p>
+				<p style="text-align: justify;">To advance materials excellence through innovation, process control, and technical expertise—supporting customer success and long-term industrial growth.</p>
 			</div>
 		</div>
 		<!-- End Vision and Mission -->
