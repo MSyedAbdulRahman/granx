@@ -40,7 +40,7 @@
 
 		<!-- Start About us
 		============================================= -->
-		<div class="about-area de-padding mb-granx">
+		<div class="about-area de-padding mb-GRANX">
 			<div class="container">
 				<div class="about-wpr grid-2">
 					<div class="about-left">
