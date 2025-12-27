@@ -12,7 +12,7 @@
 							<div class="footer-about pl-60">
 								<h4 class="footer-heading text-white mb-20" style="color: yellow !important;text-align: left;">ABOUT US</h4>
 								<p class="mb-30" style="color: white;text-align: left;">
-									Nano Polymers is committed to custom compounding and toll compounding of Engineering. Plastic materials. Continuous research and advance processes have made it possible.
+								NANOPOLYMERS is a technology-focused polymer compounding company engaged in the development of engineering plastic compounds, professional toll compounding services, and value-added recycled materials.
 								</p>
 								<ul class="footer-social" style="justify-content: left;">
 									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
