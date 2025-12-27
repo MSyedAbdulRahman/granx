@@ -252,6 +252,12 @@
 		}
 
 		/*End vision & mission*/
+
+		@media (max-width:3000px) and (min-width:1067px){
+			.mb-granx{
+				margin-bottom:100px;
+			}
+		}
 	</style>
 
 </head>
