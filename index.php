@@ -40,7 +40,7 @@
 
 		<!-- Start About us
 		============================================= -->
-		<div class="about-area de-padding">
+		<div class="about-area de-padding mb-granx">
 			<div class="container">
 				<div class="about-wpr grid-2">
 					<div class="about-left">
@@ -75,22 +75,10 @@
 						</h2>
 						<p class="mb-40 wow animate__animated animate__fadeInUp" data-wow-delay=".35s"
 							data-wow-duration="1s" style="font-size: 20px;text-align: justify;">
-							NanoPolymers is committed to custom compounding and toll compounding of Engineering Plastic
-							materials .Continuous research and advance processes have made it possible to use almost
-							every kind of engineering plastics all over again like virgin materials. We have modified
-							Nylons , Polycarbonates , ABS and PP for our customers.
+							NANOPOLYMERS is a technology-focused polymer compounding company engaged in the development of engineering plastic compounds, professional toll compounding services, and value-added recycled materials.
 							<br>
 							<br>
-							We have Twin screw extruders which are technically better than kneader or single screw
-							extruders for compounding needs We can have better dispersion of additives and colours
-							compounding and needs.
-							<br>
-							<br>
-							NanoPolymers will be the plastic compounding and recycling company, determined to recycle
-							all plastics through awareness and individual responsibility. Nanopolymers is a premier
-							supplier of compounded plastics and custom formulations. We strive to meet and exceed
-							customer expectations every time. For us, excellence is more than a goal, it’s a way of
-							doing business.
+							Operating through our flagship brand GRANX, we manufacture production-ready polymer compounds for automotive, electrical & electronics, and furniture component applications. By combining material science expertise with controlled processes, we provide consistent, application-driven polymer solutions tailored to demanding industrial environments
 						</p>
 						<a href="about.php" class="btn-1 btn-md wow animate__animated animate__fadeInUp" data-wow-delay=".85s"
 							data-wow-duration="1s" style="background: linear-gradient(116deg, rgb(14 80 149), rgb(1, 188, 37))">
